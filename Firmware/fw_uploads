@@ -1,0 +1,10 @@
+Hier sind die erstellten Firmwares, basierend auf dem Code von Kamils Nunu. 
+Der Code der hier veröffentlicht ist, ist noch nicht modifiziert, also noch original Nunu
+Ich release hier erstmal nur die Ànderungen der Firmwares
+
+NO-TX.bin und NO-TX.packed.bin ist die Nunu FW aber rein nur für Empfang ausgelegt. 
+TX ist in allen Bändern deaktiviert,für alle die nur hören möchten und/oder keine Lizenz haben, mit dem Quansheng überhaupt auf
+Sendung zu gehen.
+
+Danke nochmal an Kamil für die super Arbeit mit seiner Open-Firmware.
+
