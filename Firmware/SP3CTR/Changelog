@@ -1,0 +1,38 @@
+Hier sind die erstellten Firmwares, basierend auf dem Code von Kamils Nunu. 
+Der Code der hier veröffentlicht ist, ist noch nicht modifiziert, also noch original Nunu
+Ich release hier erstmal nur die Ànderungen der Firmwares
+
+
+
+31.03.2024
+No-TX. Die NO-TX.bin und NO-TX.packed.bin ist die Nunu FW aber rein nur für Empfang ausgelegt. 
+TX ist in allen Bändern deaktiviert,für alle die nur hören möchten und/oder keine Lizenz haben, 
+mit dem Quansheng überhaupt auf Sendung zu gehen.
+
+________________________________________________________________
+
+01.04.2024
+SP3CTR V1.0 release
+selbige wie die NO-TX nur mit TX komplett OFFEN. Andere Settings und auch NO-TX sind aber auswählbar
+im Hidden Menü.
+
+Komplett OFFEN - Nutzung aber "NICHT" empfohlen auf den 
+anderen Frequenzen als vorgesehen, da Oberwellenschleuder und teils auch kaum Leistung. 
+Ich übernehme keine Haftung.
+
+_________________________________________________________________
+
+02.04.2024
+SP3CTR V1.1 release
+- Auf Wunsch FCC_HAM im HIDDEN MENÜ angelegt (TX von 144 bis 150 und von 430 bis 450) 
+  sonst weiter wie gahabt auch FULL-TX, NUR RX stehen zur Verfügung.
+- Demodlation für BYP und RAW wieder aktiv
+- Kleinere Textübersetzungen im Code
+__________________________________________________________________
+
+
+
+DANKSAGUNG
+
+Danke nochmal an Kamil und die anderen involvierten Devs für die super Arbeit,
+welche da drin steckt mit Ihrer Open-Firmware
