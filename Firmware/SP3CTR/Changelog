@@ -30,6 +30,20 @@ SP3CTR V1.1 release
 - Kleinere Textübersetzungen im Code
 __________________________________________________________________
 
+03.04.2024
+SP3CTR V1.2 release
+
+- TX in allen integrierten Modulationsarten freigeschaltet (FM,AM,USB,BYP und RAW)
+- F_LOCK_HAM in HAM_DE geändert mit dem Frequenzbereich 144-150 und 430-450 Mhz
+- PMR_FRN hinzugefügt (Frequenzbereich Freenet und PMR446)
+- TX komplett OFFEN und NUR RX weiterhin vorhanden
+- NOAA Code komplett entfernt, wird hier eh nicht gebraucht.
+- Frequenzsendebereich aufgrund des BK4819 angepasst. =>
+  => Nun von 18 bis 660 Mhz und von 840 bis 1300 Mhz
+- Messenger aufgrund Platzes deaktiviert
+- Squelch mit F + Hoch/Runter anpassbar
+- Weitere Platzoptimierungen
+
 
 
 DANKSAGUNG
