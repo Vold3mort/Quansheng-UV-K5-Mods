@@ -16,7 +16,6 @@ SP3CTR V1.2 release
 - Frequenzsendebereich aufgrund des BK4819 angepasst. =>
   => Nun von 18 bis 660 Mhz und von 840 bis 1300 Mhz
 - Messenger aufgrund Platzes deaktiviert
-- Squelch mit F + Hoch/Runter anpassbar
 - Weitere Platzoptimierungen
 
 __________________________________________________________________
