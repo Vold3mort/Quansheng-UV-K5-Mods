@@ -14,7 +14,7 @@ SP3CTR V1.2 release
 - TX komplett OFFEN und NUR RX weiterhin vorhanden
 - NOAA Code komplett entfernt, wird hier eh nicht gebraucht.
 - Frequenzsendebereich aufgrund des BK4819 angepasst. =>
-  => Nun von 18 bis 660 Mhz und von 840 bis 1300 Mhz
+  => Nun von 18 bis 629 Mhz und von 840 bis 1300 Mhz
 - Messenger aufgrund Platzes deaktiviert
 - Weitere Platzoptimierungen
 
